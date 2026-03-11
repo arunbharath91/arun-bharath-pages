@@ -1,0 +1,16 @@
+{
+  "env": {
+    "name": "staging"
+  },
+  "cacheLocation": "localStorage",
+  "apiServer": {
+    "hosturl": "https://testapp-4457a.firebaseio.com/",
+    "mockurl": "https://www.mocky.io/v3",
+    "filePath": "https://40.76.93.115/BridgeEmpServicedev",
+    "cipherText": "",
+    "timeout": 100000,
+    "version": "1.0"
+  },
+  "basePath": "/arun-bharath-pages/arunbharath-personal/",
+  "useHashLocation": true
+}
