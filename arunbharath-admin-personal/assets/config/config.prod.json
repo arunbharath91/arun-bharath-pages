@@ -11,5 +11,6 @@
     "timeout": 100000,
     "version": "7.3"
     },
-    "basePath": "/arun-bharath-pages/arunbharath-admin-personal/"
+    "basePath": "/arun-bharath-pages/arunbharath-admin-personal/",
+    "useHashLocation": true
 }
