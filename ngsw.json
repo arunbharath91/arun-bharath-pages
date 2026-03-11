@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1773267259259,
+  "timestamp": 1773268716535,
   "index": "/arunbharath/index.html",
   "assetGroups": [
     {
@@ -10,39 +10,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/arunbharath/chunk-23V4UKVK.js",
-        "/arunbharath/chunk-4JG6LXRJ.js",
-        "/arunbharath/chunk-5A5SUUMO.js",
-        "/arunbharath/chunk-6IWGUTOY.js",
-        "/arunbharath/chunk-6VA4WKO5.js",
-        "/arunbharath/chunk-BRI2LTJU.js",
-        "/arunbharath/chunk-CTZEM4PR.js",
-        "/arunbharath/chunk-DQ6NNWY4.js",
-        "/arunbharath/chunk-E4HBYUZS.js",
-        "/arunbharath/chunk-FQMQXWCC.js",
-        "/arunbharath/chunk-H62TGTXZ.js",
-        "/arunbharath/chunk-HK4LKQEQ.js",
-        "/arunbharath/chunk-HQLS7NVF.js",
-        "/arunbharath/chunk-JN3NYKXV.js",
-        "/arunbharath/chunk-KOQSRYWI.js",
-        "/arunbharath/chunk-KUVN22TC.js",
-        "/arunbharath/chunk-LG6JCQYB.js",
-        "/arunbharath/chunk-N6LPWFYJ.js",
-        "/arunbharath/chunk-NGFMYSQS.js",
-        "/arunbharath/chunk-OGRF7GB7.js",
-        "/arunbharath/chunk-OQCUIKNK.js",
-        "/arunbharath/chunk-PGL3Y5AB.js",
-        "/arunbharath/chunk-VD24JJZQ.js",
-        "/arunbharath/chunk-VHE3PI24.js",
-        "/arunbharath/chunk-YEXR26JF.js",
-        "/arunbharath/favicon.ico",
-        "/arunbharath/index.html",
-        "/arunbharath/main-GPHLASL6.js",
-        "/arunbharath/manifest.json",
-        "/arunbharath/polyfills-PZSJNBYU.js",
-        "/arunbharath/styles-G3RXYD5G.css"
-      ],
+      "urls": [],
       "patterns": []
     },
     {
@@ -367,32 +335,6 @@
     "/arunbharath/assets/images/slack.png": "2ca78ed5caa8409d146aa8a88e5d72c0f1dfd4dc",
     "/arunbharath/assets/images/solid.svg": "d6051500b9ca8298a5f2652a146b98db5fbf75d3",
     "/arunbharath/assets/images/video.jpg": "b7fb7bb8324658a1c0b154fa127205bd3f36a0c4",
-    "/arunbharath/chunk-23V4UKVK.js": "d8524bde42507ae77c0240703182172c594df120",
-    "/arunbharath/chunk-4JG6LXRJ.js": "c1f59440f902a9c9033d9d2f198e9a4c65d1b9f1",
-    "/arunbharath/chunk-5A5SUUMO.js": "015e93e03811de3f39ae236c57002354d89b0974",
-    "/arunbharath/chunk-6IWGUTOY.js": "44e0fb872d5841f0fbd702c39738ab91c48a0a89",
-    "/arunbharath/chunk-6VA4WKO5.js": "d15053ab553e148eaf698c80a8d26c86c13eb4af",
-    "/arunbharath/chunk-BRI2LTJU.js": "a0fa33f90ace189623654f3499661061a2a2c62e",
-    "/arunbharath/chunk-CTZEM4PR.js": "e443bc47e99e4644b2c8235284b61335148c8f4e",
-    "/arunbharath/chunk-DQ6NNWY4.js": "0190ebd04a4c8a72b06560ce6295f43b68343e40",
-    "/arunbharath/chunk-E4HBYUZS.js": "88c36941a5dad2f2956ba8c755d462a6546d4df3",
-    "/arunbharath/chunk-FQMQXWCC.js": "cbd4831d3e88a4dde699cdbc8d4614e6bbc3d4ce",
-    "/arunbharath/chunk-H62TGTXZ.js": "477d959b794b740c19a6f90506b776d8cf75b969",
-    "/arunbharath/chunk-HK4LKQEQ.js": "69606e8d3df60703107f3d39a94b46fe1f59d004",
-    "/arunbharath/chunk-HQLS7NVF.js": "76efb00733fc167c23d9743c043911462027d83b",
-    "/arunbharath/chunk-JN3NYKXV.js": "ff9dea2c0f7a9303c875b17948f8d02789d18934",
-    "/arunbharath/chunk-KOQSRYWI.js": "9cfea95c4f0df7aaa991c1f0e2db70a5727f6e71",
-    "/arunbharath/chunk-KUVN22TC.js": "a4fa99fca24df9ba7216fadc79aae0da455f9d82",
-    "/arunbharath/chunk-LG6JCQYB.js": "81cdddd0563a721781091be7f774f35217252d0e",
-    "/arunbharath/chunk-N6LPWFYJ.js": "25a371765d215ad337706b5be0efb55529a4874d",
-    "/arunbharath/chunk-NGFMYSQS.js": "3dad4159aee7ccc1f7b2bf203f02e75432fdf43b",
-    "/arunbharath/chunk-OGRF7GB7.js": "e27266549c3a94a8279036fc3aca1d655d4acbb0",
-    "/arunbharath/chunk-OQCUIKNK.js": "1cdbcdf3246f4ea43f373f47adcf2cf9644d548b",
-    "/arunbharath/chunk-PGL3Y5AB.js": "8f8aa4f21de8b97530f52fa8737c3eda200ff963",
-    "/arunbharath/chunk-VD24JJZQ.js": "91a7fe2009680392a3a19638b8e131d6f314035c",
-    "/arunbharath/chunk-VHE3PI24.js": "cf37492f4c9f65d841323979b8ce512110d3d6b2",
-    "/arunbharath/chunk-YEXR26JF.js": "e00e1c7b2831931b9ae315f75a03edf20892f3f4",
-    "/arunbharath/favicon.ico": "610048aa2bfd88c764cb6b13ef8acb0ea3ccad14",
     "/arunbharath/icons/apple-touch-icon.png": "de8e67b2fbfafd0442311b060e9869bffbee2dcb",
     "/arunbharath/icons/favicon.svg": "6792d7a7bfd7d671018d9aa43b7b0fe2fae15dbf",
     "/arunbharath/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
@@ -402,12 +344,7 @@
     "/arunbharath/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
     "/arunbharath/icons/icon-512x512.png": "974b53a2c7b6208d2d831435accc48d92930cab7",
     "/arunbharath/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/arunbharath/icons/icon-96x96.png": "9431fe334dbe6d6aa8eb174f8cce25c05416c870",
-    "/arunbharath/index.html": "8f06760c6ae8b43abdd4cc638121b7c4056e1d8d",
-    "/arunbharath/main-GPHLASL6.js": "9c19400c08d6cde707b5c8a358689fe19d5307e8",
-    "/arunbharath/manifest.json": "0867eb55e60142aaf3285a5de6b608fea6e285f4",
-    "/arunbharath/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
-    "/arunbharath/styles-G3RXYD5G.css": "208728c67b526cbc192524b858459013c8712598"
+    "/arunbharath/icons/icon-96x96.png": "9431fe334dbe6d6aa8eb174f8cce25c05416c870"
   },
   "navigationUrls": [
     {
@@ -425,7 +362,9 @@
     {
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
-    }
+    },
+    "!/**/admin-personal/**",
+    "!/**/task-board/**"
   ],
   "navigationRequestStrategy": "performance"
 }
