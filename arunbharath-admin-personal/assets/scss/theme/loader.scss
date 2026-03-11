@@ -1,0 +1,59 @@
+@use '../colors.scss' as colorVariable;
+/* loader start */
+.loader {
+    height: 2px;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    background-color: #f0f0f0;
+    z-index: 1000;
+  }
+  .loader:before{
+    display: block;
+    position: absolute;
+    content: "";
+    left: -200px;
+    width: 200px;
+    height: 2px;
+  
+    z-index: 1000;
+    background-color: colorVariable.$bg-primary;
+    animation: loading 2s linear infinite;
+  }
+  
+  .loader:after{ position: fixed; content: ''; top:0; bottom: 0; left:0; right: 0;  background: rgba(255,255,255,0.7); transition: 0.2s ease-in; z-index: 999;}
+  
+  @-webkit-keyframes loading {
+    from {left: -20%; width: 30%;}
+    50% {width: 30%;}
+    70% {width: 70%;}
+    80% { left: 50%;}
+    95% {left: 120%;}
+    to {left: 100%;}
+  }
+  @-moz-keyframes loading {
+    from {left: -20%; width: 30%;}
+    50% {width: 30%;}
+    70% {width: 70%;}
+    80% { left: 50%;}
+    95% {left: 120%;}
+    to {left: 100%;}
+  }
+  @-o-keyframes loading {
+    from {left: -20%; width: 30%;}
+    50% {width: 30%;}
+    70% {width: 70%;}
+    80% { left: 50%;}
+    95% {left: 120%;}
+    to {left: 100%;}
+  }
+  @keyframes loading {
+      from {left: -20%; width: 30%;}
+      50% {width: 30%;}
+      70% {width: 70%;}
+      80% { left: 50%;}
+      95% {left: 120%;}
+      to {left: 100%;}
+  }
+  /* loader end */
+  

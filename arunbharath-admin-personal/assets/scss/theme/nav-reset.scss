@@ -1,0 +1,242 @@
+@use '../colors.scss' as colorVariable;
+.top-navbar {
+    height: 55px;
+    padding: 0 15px;
+    border: none;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .top-heading {
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 0;
+  }
+  
+  .navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+  }
+  
+  .nav-link {
+    cursor: pointer !important;
+  }
+  /* ---------------------------------------------------
+      SIDEBAR STYLE
+  ----------------------------------------------------- */
+  .wrapper {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+  
+  #sidebar {
+    width: 220px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background: colorVariable.$bg-light;
+    color: #fff;
+    transition: all 0.3s;
+    box-shadow: 0 6px 9px #00000029;
+    z-index: 1000;
+  }
+  
+  .wrapper.active #sidebar {
+    margin-left: -250px;
+  }
+  
+  #sidebar .sidebar-header {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 161px;
+    border-bottom: 1px solid #dcdada;
+    position: relative;
+}
+  
+  #sidebar .sidebar-header i {
+    color: #fff;
+    display: none;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+  }
+  
+  #sidebar ul.components {
+    width: 220px;
+  }
+  
+  .bridge-nav-scrollbar {
+    height: calc(100vh - 145px) !important;
+  }
+  
+  #sidebar ul.components > li > a {
+    padding: 13px 20px;
+        display: flex;
+        align-items: center;
+        color: #a7b1c2;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 13px;
+        letter-spacing: 1px;
+  }
+  
+  #sidebar ul.sub-components > li > a {
+    padding: 10px 7px;
+    margin: 6px;
+    display: flex;
+    font-size: 13px;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #sidebar ul li a i {
+    margin-right: 15px;
+    font-size: 14px;
+  }
+  
+  #sidebar ul li a:hover {
+    background: colorVariable.$bg-secondary;
+  }
+  
+  #sidebar ul li a.active {
+    border-left: 4px solid colorVariable.$secondary-dark;
+    background: colorVariable.$bg-secondary;
+    color: #fff;
+  }
+  
+  .wrapper.active header.top-nav {
+    left: 0;
+    width: 100%;
+  }
+  
+  header.top-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 220px;
+    width: calc(100% - 220px);
+    background: colorVariable.$bg-white;
+    border-bottom: 1px solid #e7eaec;
+    z-index: 999;
+    transition: all 0.3s;
+  }
+  
+  #sidebarCollapse {
+    color: colorVariable.$bg-white;
+    line-height: 0;
+  }
+  
+  #sidebarCollapse i {
+    text-align: left;
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  .right-nav {
+    order: 3;
+    margin-left: auto;
+    height: 100%;
+    align-items: center;
+  }
+  
+  .nav-type-accordian {
+    padding: 0;
+  }
+  
+  .nav-type-accordian .mat-expansion-panel-header {
+    height: auto !important;
+    padding: 10px 20px !important;
+  }
+  
+  .nav-type-accordian .mat-expansion-panel-header.mat-expanded {
+    background: #10436e;
+  }
+  
+  .nav-type-accordian .mat-expansion-panel-header-title {
+    color: #fff;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+  }
+  
+  .mat-expansion-panel-header[aria-expanded="false"] .mat-content .mat-expansion-panel-header-title {
+      color: #a7b1c2;
+  }
+  .nav-item {
+    font-weight: 500;
+  }
+  .nav-item a{
+  display: flex;
+  align-items: center;
+  height: 55px;
+  }
+  .count-info {
+    position: relative;
+  }
+  .count-info .label {
+      line-height: 12px;
+      padding: 2px 5px;
+      position: absolute;
+      right: -2px;
+      top: 5px;
+  }
+  
+  .wrapper.active #search {
+    left: 0;
+    width: 100%;
+  }
+  /* ---------------------------------------------------
+      MEDIAQUERIES
+  ----------------------------------------------------- */
+  @media (max-width: 768px) {
+    header.top-nav {
+      left: 0;
+      width: 100%;
+    }
+  
+    header.top-nav h2 {
+      color: #fff !important;
+    }
+  
+    #sidebarCollapse i {
+      color: #fff !important;
+    }
+  
+    #sidebarCollapse + h2 {
+      float: left;
+    }
+  
+    #sidebar .sidebar-header i {
+      display: block;
+    }
+  
+    .overlay {
+      position: fixed;
+      display: block;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.5);
+      content: '';
+      z-index: 999;
+    }
+  
+    .wrapper.active .overlay {
+      display: none;
+      opacity: 1;
+    }
+  
+    .top-heading {
+      color: #fff;
+    }
+  }
+  
