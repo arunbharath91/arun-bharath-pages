@@ -1,44 +1,135 @@
-@use '../colors.scss' as colorVar;
-
-// Import shared utilities from library
-@use 'cmp-styles/src/lib/utilities/typography';
-@use 'cmp-styles/src/lib/utilities/spacing';
-@use 'cmp-styles/src/lib/utilities/layout';
-
-// App-specific utilities
-.header-seperater {
-  width: 8%;
-  display: block;
-  height: 4px;
-  margin: 0 auto 1.3em;
+@use '../colors.scss' as colorVariable;
+.is-invalid {
+    border-color: colorVariable.$bg-accent;
 }
 
-.header-seperater.default {
-  background: colorVar.color(white);
+form.border-white .mat-form-field-appearance-outline .mat-form-field-outline {
+    color: rgba(255, 255, 255, 1);
 }
 
-.header-seperater.inverse {
-  margin: 0 auto 1.3em;
-  background: colorVar.color(light-grey-secondary);
+.h-1x {
+    height: 300px;
 }
 
-.grey {
-  color: colorVar.color(medium-grey);
+.h-1_5x {
+    height: 350px;
 }
 
-.mediumgrey {
-  color: colorVar.color(medium-grey-2);
+.h-2x {
+    height: 400px;
 }
 
-.white {
-  color: colorVar.color(white);
+.h-2_5x {
+    height: 450px;
 }
 
-.muted-btn {
-  opacity: 0.5;
-  cursor: not-allowed;
+.h-3x {
+    height: 500px;
 }
 
-hr {
-  background-color: #fff;
+.h-3_5x {
+    height: 550px;
+}
+
+.pt-6,
+.py-6 {
+    padding-top: 4rem !important;
+}
+.pb-6,
+.py-6 {
+    padding-bottom: 4rem !important;
+}
+
+.pr-6,
+.px-6 {
+    padding-right: 4rem !important;
+}
+.pl-6,
+.px-6 {
+    padding-left: 4rem !important;
+}
+
+.pt-7,
+.py-7 {
+    padding-top: 5rem !important;
+}
+.pb-7,
+.py-7 {
+    padding-bottom: 5rem !important;
+}
+
+.pr-7,
+.px-7 {
+    padding-right: 5rem !important;
+}
+.pl-7,
+.px-7 {
+    padding-left: 5rem !important;
+}
+
+.font-x-small {
+    font-size: 0.625rem !important;
+}
+
+.font-small {
+    font-size: 0.813rem !important;
+}
+.font-default {
+    font-size: 1rem !important;
+}
+.font-1x {
+    font-size: 1.125rem !important;
+}
+.font-1_5x {
+    font-size: 1.5rem !important;
+}
+.font-2x {
+    font-size: 1.75rem !important;
+}
+.font-3x {
+    font-size: 2.25rem !important;
+}
+.font-4x {
+    font-size: 3rem !important;
+}
+.card-1x {
+    min-height: 100px;
+}
+.card-editor {
+    position: absolute !important;
+    right: 0;
+    top: 0;
+}
+.bg-grey {
+    background: colorVariable.$color-light-grey-1 !important;
+}
+
+.bg-darkgreen {
+    background: colorVariable.$color-dark-green !important;
+}
+.bg-lightgrey {
+    background-color: colorVariable.$color-light-grey-3 !important;
+}
+
+.text-darkgreen {
+    color: colorVariable.$color-dark-green !important;
+}
+
+.text-grey {
+    color: colorVariable.$color-medium-grey-3 !important;
+}
+
+.text-grey-secondary {
+    color: colorVariable.$color-medium-grey-2 !important;
+}
+
+.text-mediumgrey {
+    color: colorVariable.$color-medium-grey-1;
+}
+
+.text-mediumgrey-secondary {
+    color: colorVariable.$color-medium-grey-2;
+}
+.text-yellow {
+    color: colorVariable.$color-accent;
 }

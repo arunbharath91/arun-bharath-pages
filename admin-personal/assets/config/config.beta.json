@@ -2,15 +2,15 @@
   "env": {
     "name": "beta"
   },
-  "cacheLocation": "localStorage",
+  "cacheLocation": "sessionStorage",
   "apiServer": {
-    "hosturl": "https://testapp-4457a.firebaseio.com/",
-    "mockurl": "https://www.mocky.io/v3",
-    "filePath": "https://40.76.93.115/BridgeEmpServicedev",
+    "url": "http://localhost:3000",
+    "mock": "https://www.mocky.io/v2",
+    "filePath": "https://40.76.93.115/BridgeEmployerDev",
     "cipherText": "",
     "timeout": 100000,
     "version": "1.0"
   },
-  "basePath": "/arunbharath/personal/",
+  "basePath": "/",
   "useHashLocation": true
 }
