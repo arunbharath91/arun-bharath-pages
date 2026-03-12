@@ -4,13 +4,11 @@
   },
   "cacheLocation": "localStorage",
   "apiServer": {
-    "hosturl": "https://testapp-4457a.firebaseio.com/",
-    "mockurl": "https://www.mocky.io/v3",
-    "filePath": "https://40.76.93.115/BridgeEmpServicedev",
-    "cipherText": "",
+    "url": "https://api.production.com/api",
+    "mock": "https://www.mocky.io/v3",
     "timeout": 100000,
     "version": "1.0"
   },
-  "basePath": "/arunbharath/personal/",
+  "basePath": "/arunbharath/task-board/",
   "useHashLocation": true
 }
