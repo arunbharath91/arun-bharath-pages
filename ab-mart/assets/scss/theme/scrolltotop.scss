@@ -1,0 +1,21 @@
+@use '../colors.scss' as colors;
+
+#scroll {
+  position: fixed;
+  right: 20px;
+  bottom: 60px;
+  z-index: 1111;
+  padding: 10px 15px;
+  display: none;
+  outline: none;
+  text-align: center;
+  transition: all 0.5s ease-in-out;
+  background-color: colors.color(primary);
+  color: #fff;
+}
+#scroll:hover {
+  background-color: #000;
+}
+#scroll i {
+  font-size: 1.3em;
+}

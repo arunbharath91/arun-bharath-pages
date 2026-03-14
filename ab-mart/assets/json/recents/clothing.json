@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "CLO001",
+    "cid": "clothing",
+    "src": "assets/images/catalog/product/10-800x800.jpg",
+    "title": "Men's Cotton Casual Shirt - Blue",
+    "dealendsin": "Mar 15, 2026 18:30:00",
+    "currentprice": "599.00",
+    "oldprice": "1299.00",
+    "offer": "54%",
+    "deliveryby": "Monday, Mar 2",
+    "rating": "4.2",
+    "reviewcount": "156",
+    "shortdesc": "100% Cotton, Regular Fit, Machine Washable, Perfect for casual wear...",
+    "replacable": "7"
+  },
+  {
+    "pid": "CLO002",
+    "cid": "clothing",
+    "src": "assets/images/catalog/product/11-800x800.jpg",
+    "title": "Women's Ethnic Kurti - Red",
+    "dealendsin": "Mar 10, 2026 12:00:00",
+    "currentprice": "799.00",
+    "oldprice": "1599.00",
+    "offer": "50%",
+    "deliveryby": "Tuesday, Mar 3",
+    "rating": "4.5",
+    "reviewcount": "234",
+    "shortdesc": "Rayon fabric, Printed design, Comfortable fit, Perfect for festivals...",
+    "replacable": "7"
+  },
+  {
+    "pid": "CLO003",
+    "cid": "clothing",
+    "src": "assets/images/catalog/product/12-800x800.jpg",
+    "title": "Men's Denim Jeans - Black",
+    "dealendsin": "Mar 20, 2026 20:00:00",
+    "currentprice": "899.00",
+    "oldprice": "1999.00",
+    "offer": "55%",
+    "deliveryby": "Wednesday, Mar 4",
+    "rating": "4.3",
+    "reviewcount": "189",
+    "shortdesc": "Stretchable denim, Slim fit, Fade resistant, All season wear...",
+    "replacable": "7"
+  },
+  {
+    "pid": "CLO004",
+    "cid": "clothing",
+    "src": "assets/images/catalog/product/13-800x800.jpg",
+    "title": "Women's Summer Dress - Floral",
+    "dealendsin": "Mar 8, 2026 15:00:00",
+    "currentprice": "1099.00",
+    "oldprice": "2199.00",
+    "offer": "50%",
+    "deliveryby": "Thursday, Mar 5",
+    "rating": "4.6",
+    "reviewcount": "312",
+    "shortdesc": "Cotton blend, Floral print, Knee length, Comfortable summer wear...",
+    "replacable": "7"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "PET001",
+    "cid": "pets",
+    "src": "assets/images/catalog/product/29-800x800.jpg",
+    "title": "Premium Dog Food - 10kg Pack",
+    "dealendsin": "Mar 20, 2026 14:00:00",
+    "currentprice": "1299.00",
+    "oldprice": "1999.00",
+    "offer": "35%",
+    "deliveryby": "Friday, Mar 20",
+    "rating": "4.5",
+    "reviewcount": "567",
+    "shortdesc": "High protein, All breeds, Chicken flavor, Nutritionally balanced...",
+    "replacable": "10"
+  },
+  {
+    "pid": "PET002",
+    "cid": "pets",
+    "src": "assets/images/catalog/product/30-800x800.jpg",
+    "title": "Cat Litter Box with Scoop - Large",
+    "dealendsin": "Mar 25, 2026 16:00:00",
+    "currentprice": "899.00",
+    "oldprice": "1499.00",
+    "offer": "40%",
+    "deliveryby": "Saturday, Mar 21",
+    "rating": "4.3",
+    "reviewcount": "234",
+    "shortdesc": "Odor control, Easy to clean, Durable plastic, Non-stick surface...",
+    "replacable": "10"
+  },
+  {
+    "pid": "PET003",
+    "cid": "pets",
+    "src": "assets/images/catalog/product/31-800x800.jpg",
+    "title": "Pet Grooming Kit - 5 in 1",
+    "dealendsin": "Apr 1, 2026 11:00:00",
+    "currentprice": "699.00",
+    "oldprice": "1299.00",
+    "offer": "46%",
+    "deliveryby": "Monday, Mar 23",
+    "rating": "4.4",
+    "reviewcount": "345",
+    "shortdesc": "Complete grooming set, Nail clipper, Brush, Comb, Scissors included...",
+    "replacable": "10"
+  },
+  {
+    "pid": "PET004",
+    "cid": "pets",
+    "src": "assets/images/catalog/product/32-800x800.jpg",
+    "title": "Aquarium Fish Tank - 20L with Filter",
+    "dealendsin": "Mar 18, 2026 13:00:00",
+    "currentprice": "1599.00",
+    "oldprice": "2999.00",
+    "offer": "47%",
+    "deliveryby": "Tuesday, Mar 24",
+    "rating": "4.6",
+    "reviewcount": "456",
+    "shortdesc": "LED lighting, Built-in filter, Crystal clear glass, Complete setup...",
+    "replacable": "10"
+  }
+]

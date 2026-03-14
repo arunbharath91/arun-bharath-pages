@@ -1,0 +1,246 @@
+@use '../colors.scss' as colors;
+
+/*generic*/
+.product-heading {
+  letter-spacing: 1px;
+  border-bottom: 1px solid #ccc;
+  position: relative;
+}
+
+.product-heading::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  border-bottom: 2px solid #ffd200;
+  width: 120px;
+  bottom: -2px;
+  margin: 0 auto;
+}
+
+.product-heading span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* product-primary :start */
+.product-primary > h5 {
+  margin: 0 15px 1px 15px;
+  border-top-color: transparent;
+  transition: 0.3s ease;
+  box-shadow: 0px 0px 5px 0px rgba(4, 0, 0, 0.05);
+  position: relative;
+  margin-top: -20px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.product-primary:hover > h5 {
+  background-color: #0063f7;
+}
+
+.product-primary:hover > h5 a {
+  color: #fff !important;
+}
+
+/* product-primary :end */
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 1.3rem;
+  color: #d3d3d3;
+}
+
+.full {
+  color: #ffc600;
+}
+
+.half {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  color: #ffc600;
+}
+
+/* product-secondary :start */
+.product-secondary {
+  position: relative;
+  transition: 0.2s ease-in;
+  border-radius: 4px;
+}
+
+.product-secondary .image {
+  overflow: hidden;
+}
+
+.product-secondary .price {
+  min-height: 22px;
+}
+
+.price-old {
+  text-decoration: line-through;
+}
+
+.product-secondary:hover .image > img {
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
+/* button effect */
+.product-secondary .button-group {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.product-secondary .button-group button,
+.product-secondary .button-group a {
+  color: #c2c2c2;
+  text-align: center;
+  font-size: 0.8rem;
+  transition: 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin: auto 3px;
+}
+
+.product-secondary .button-group button:hover,
+.product-secondary .button-group a:hover {
+  color: #0063f7;
+}
+
+.sale {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  background-color: #000;
+  padding: 1px 6px;
+}
+
+/* product-secondary :end */
+
+/* product-tertiary :start */
+.product-tertiary .pcomm {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: colors.color(light);
+  padding: 8px 30px;
+  border-radius: 0 5px 0 3px;
+  border: 1px solid colors.color(light-grey-3);
+  margin: 0;
+}
+
+.product-tertiary .pro-right {
+  margin-left: -2rem;
+}
+
+/*product-view*/
+.product-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 64px;
+  bottom: 0;
+  z-index: 2;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.img-container {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 320px;
+  width: 100%;
+}
+
+.product-thumbnail li a {
+  overflow: hidden;
+}
+
+.product-thumbnail li.active a {
+  border: 2px solid #2874f0 !important;
+}
+
+.product-thumbnail li.active a img {
+  padding: 5px;
+}
+
+.product-thumbnail li a img {
+  width: 60px;
+  height: auto;
+}
+
+.ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-block;
+  text-align: center;
+}
+
+.ribbon .text {
+  display: inline-block;
+  padding: 0.5em 1em;
+  line-height: 1.2em;
+  background: #ffd72a;
+  position: relative;
+}
+
+.ribbon:before,
+.ribbon .text:before,
+.ribbon .text:after,
+.ribbon .bold:before {
+  content: '';
+  position: absolute;
+  border-style: solid;
+}
+
+.ribbon:before {
+  top: 0.3em;
+  left: 0.2em;
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #ebeced;
+  z-index: -2;
+}
+
+.ribbon .text:before {
+  bottom: 100%;
+  left: 0;
+  border-width: 0.5em 0.7em 0 0;
+  border-color: transparent #fc9544 transparent transparent;
+}
+
+.ribbon .text:after {
+  top: 100%;
+  right: 0;
+  border-width: 0.5em 2em 0 0;
+  border-color: #fc9544 transparent transparent transparent;
+}
+
+.ribbon .bold:before {
+  border-color: #ebeced transparent #ebeced #ebeced;
+  top: 0.7em;
+  right: -2.3em;
+}
+
+.addon:not(:last-child):after {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+  display: inline-block;
+  z-index: 1;
+  content: '+';
+  font-size: 40px;
+  margin: 0;
+  right: -7px;
+  color: #c2c2c2;
+}

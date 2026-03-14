@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "BOK001",
+    "cid": "books",
+    "src": "assets/images/catalog/product/25-800x800.jpg",
+    "title": "The Psychology of Money - Morgan Housel",
+    "dealendsin": "Mar 28, 2026 12:00:00",
+    "currentprice": "299.00",
+    "oldprice": "399.00",
+    "offer": "25%",
+    "deliveryby": "Monday, Mar 16",
+    "rating": "4.8",
+    "reviewcount": "1245",
+    "shortdesc": "Bestseller, Personal finance, Timeless lessons, Paperback edition...",
+    "replacable": "7"
+  },
+  {
+    "pid": "BOK002",
+    "cid": "books",
+    "src": "assets/images/catalog/product/26-800x800.jpg",
+    "title": "Atomic Habits - James Clear",
+    "dealendsin": "Apr 2, 2026 15:00:00",
+    "currentprice": "349.00",
+    "oldprice": "499.00",
+    "offer": "30%",
+    "deliveryby": "Tuesday, Mar 17",
+    "rating": "4.9",
+    "reviewcount": "2134",
+    "shortdesc": "Self-help, Habit formation, Life-changing, International bestseller...",
+    "replacable": "7"
+  },
+  {
+    "pid": "BOK003",
+    "cid": "books",
+    "src": "assets/images/catalog/product/27-800x800.jpg",
+    "title": "Rich Dad Poor Dad - Robert Kiyosaki",
+    "dealendsin": "Mar 15, 2026 10:00:00",
+    "currentprice": "279.00",
+    "oldprice": "399.00",
+    "offer": "30%",
+    "deliveryby": "Wednesday, Mar 18",
+    "rating": "4.7",
+    "reviewcount": "1876",
+    "shortdesc": "Financial literacy, Investment guide, Classic bestseller, Must read...",
+    "replacable": "7"
+  },
+  {
+    "pid": "BOK004",
+    "cid": "books",
+    "src": "assets/images/catalog/product/28-800x800.jpg",
+    "title": "Think and Grow Rich - Napoleon Hill",
+    "dealendsin": "Apr 8, 2026 18:00:00",
+    "currentprice": "199.00",
+    "oldprice": "299.00",
+    "offer": "33%",
+    "deliveryby": "Thursday, Mar 19",
+    "rating": "4.6",
+    "reviewcount": "987",
+    "shortdesc": "Success principles, Motivational, Timeless classic, Personal development...",
+    "replacable": "7"
+  }
+]

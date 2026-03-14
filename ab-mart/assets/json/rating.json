@@ -1,0 +1,48 @@
+[{
+	"totalreview": "6544",
+	"totalrating": "107659",
+	"cumulativerating": [
+		{
+			"id": "09rty6789a",
+			"title": "performance",
+			"rating": "3.5"
+		},
+		{
+			"id": "09rty6739a",
+			"title": "design",
+			"rating": "4.5"
+		},
+		{
+			"id": "06rty6789a",
+			"title": "delivery & installation",
+			"rating": "2"
+		},
+		{
+			"id": "09rtu6789a",
+			"title": "value for money",
+			"rating": "4.2"
+		}
+	],
+	"breakdown": [
+		{
+			"reviews": "67542",
+			"for": "5"
+		},
+		{
+			"reviews": "26124",
+			"for": "4"
+		},
+		{
+			"reviews": "6638",
+			"for": "3"
+		},
+		{
+			"reviews": "2042",
+			"for": "2"
+		},
+		{
+			"reviews": "5313",
+			"for": "1"
+		}
+	]
+}]

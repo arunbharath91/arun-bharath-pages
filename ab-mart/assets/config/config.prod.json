@@ -1,0 +1,16 @@
+{
+  "env": {
+    "name": "prod"
+  },
+  "cacheLocation": "sessionStorage",
+  "apiServer": {
+    "hosturl": "https://arunbharath91.github.io/arunbharath/ab-mart/",
+    "mockurl": "https://arunbharath91.github.io/arunbharath/ab-mart",
+    "filePath": "https://40.76.93.115/BridgeEmpServicedev",
+    "cipherText": "",
+    "timeout": 100000,
+    "version": "1.0"
+  },
+  "basePath": "/arunbharath/ab-mart/",
+  "useHashLocation": true
+}

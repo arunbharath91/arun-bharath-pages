@@ -1,0 +1,65 @@
+[
+  {
+    "src": "assets/images/catalog/category/1-190x190.png",
+    "title": "Electronics",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "electonics"
+  },
+  {
+    "src": "assets/images/catalog/category/2-190x190.png",
+    "title": "Wood Works",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "wood"
+  },
+  {
+    "src": "assets/images/catalog/category/3-190x190.png",
+    "title": "Clothing",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "clothing"
+  },
+  {
+    "src": "assets/images/catalog/category/4-190x190.png",
+    "title": "Kitchen Items",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "kitchen"
+  },
+  {
+    "src": "assets/images/catalog/category/5-190x190.png",
+    "title": "Seeds",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "seeds"
+  },
+  {
+    "src": "assets/images/catalog/category/6-190x190.png",
+    "title": "Books",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "books"
+  },
+  {
+    "src": "assets/images/catalog/category/7-190x190.png",
+    "title": "Pets Items",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "pets"
+  },
+  {
+    "src": "assets/images/catalog/category/8-190x190.png",
+    "title": "Beauty Items",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "beauty"
+  },
+  {
+    "src": "assets/images/catalog/category/9-190x190.png",
+    "title": "Accessories",
+    "offer": "70%",
+    "cid": "1196875cid45",
+    "id": "accessory"
+  }
+]

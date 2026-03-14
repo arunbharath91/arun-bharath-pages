@@ -1,0 +1,31 @@
+[
+  {
+    "src": "assets/images/catalog/offer/banner-1-660x280.jpg",
+    "title": "IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+    "offer": "70%",
+    "pid": "1196875",
+    "cid": "45"
+  },
+  {
+    "src": "assets/images/catalog/offer/banner-2-660x280.jpg",
+    "title": "IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+    "offer": "70%",
+    "pid": "1196876",
+    "cid": "46"
+  },
+  {
+    "src": "assets/images/catalog/offer/banner-3-660x280.jpg",
+    "title": "IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+    "offer": "70%",
+    "pid": "1196877",
+    "cid": "47"
+  },
+  {
+    "src": "assets/images/catalog/offer/banner-4-660x280.jpg",
+    "title": "IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+    "offer": "70%",
+    "pid": "1196878",
+    "cid": "48",
+    "id": "uid11234"
+  }
+]

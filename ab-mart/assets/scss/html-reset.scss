@@ -1,0 +1,40 @@
+@use './colors.scss' as colors;
+
+/*------------ html reset setup start------------*/
+html {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: colors.color(dark);
+  line-height: 1.15;
+}
+
+body {
+  color: #272727;
+  background-color: colors.color(white);
+  top: 0 !important;
+  font-size: 1rem;
+  word-wrap: break-word;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+  font-family: 'Roboto-Regular';
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  line-height: 1.5rem;
+  letter-spacing: 0.5px;
+}
+section {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+.disabled-link {
+  opacity: 0.3;
+  pointer-events: none;
+}
+/*------------html reset setup end------------*/

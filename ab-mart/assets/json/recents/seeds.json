@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "SED001",
+    "cid": "seeds",
+    "src": "assets/images/catalog/product/18-800x800.jpg",
+    "title": "Organic Tomato Seeds - Hybrid Variety",
+    "dealendsin": "Mar 30, 2026 11:00:00",
+    "currentprice": "149.00",
+    "oldprice": "299.00",
+    "offer": "50%",
+    "deliveryby": "Wednesday, Mar 11",
+    "rating": "4.6",
+    "reviewcount": "523",
+    "shortdesc": "High yield, Disease resistant, 100% organic, Germination rate 85%...",
+    "replacable": "0"
+  },
+  {
+    "pid": "SED002",
+    "cid": "seeds",
+    "src": "assets/images/catalog/product/19-800x800.jpg",
+    "title": "Flower Seeds Mix - 10 Varieties",
+    "dealendsin": "Apr 5, 2026 13:00:00",
+    "currentprice": "199.00",
+    "oldprice": "399.00",
+    "offer": "50%",
+    "deliveryby": "Thursday, Mar 12",
+    "rating": "4.4",
+    "reviewcount": "267",
+    "shortdesc": "Colorful blooms, Easy to grow, All season flowers, Garden decoration...",
+    "replacable": "0"
+  },
+  {
+    "pid": "SED003",
+    "cid": "seeds",
+    "src": "assets/images/catalog/product/20-800x800.jpg",
+    "title": "Herb Seeds Collection - Basil, Mint, Coriander",
+    "dealendsin": "Mar 22, 2026 17:00:00",
+    "currentprice": "249.00",
+    "oldprice": "499.00",
+    "offer": "50%",
+    "deliveryby": "Friday, Mar 13",
+    "rating": "4.7",
+    "reviewcount": "389",
+    "shortdesc": "Kitchen garden essentials, Fresh herbs, Organic certified, Easy maintenance...",
+    "replacable": "0"
+  },
+  {
+    "pid": "SED004",
+    "cid": "seeds",
+    "src": "assets/images/catalog/product/24-800x800.jpg",
+    "title": "Vegetable Seeds Kit - 15 Varieties",
+    "dealendsin": "Apr 10, 2026 09:00:00",
+    "currentprice": "399.00",
+    "oldprice": "799.00",
+    "offer": "50%",
+    "deliveryby": "Saturday, Mar 14",
+    "rating": "4.5",
+    "reviewcount": "445",
+    "shortdesc": "Complete kitchen garden, Seasonal vegetables, High germination, Organic...",
+    "replacable": "0"
+  }
+]

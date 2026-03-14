@@ -1,0 +1,65 @@
+[
+  {
+    "id": "brand001",
+    "name": "Samsung",
+    "logo": "assets/images/catalog/brands/samsung.jpg",
+    "category": "electronics",
+    "description": "Leading electronics manufacturer"
+  },
+  {
+    "id": "brand002",
+    "name": "Adidas",
+    "logo": "assets/images/catalog/brands/adidas.jpg",
+    "category": "clothing",
+    "description": "Athletic apparel and footwear"
+  },
+  {
+    "id": "brand003",
+    "name": "Puma",
+    "logo": "assets/images/catalog/brands/puma.jpg",
+    "category": "clothing",
+    "description": "Sports and lifestyle brand"
+  },
+  {
+    "id": "brand004",
+    "name": "Levis",
+    "logo": "assets/images/catalog/brands/levis.jpg",
+    "category": "clothing",
+    "description": "Denim and casual wear"
+  },
+  {
+    "id": "brand005",
+    "name": "Dell",
+    "logo": "assets/images/catalog/brands/dell.jpg",
+    "category": "electronics",
+    "description": "Computer and technology products"
+  },
+  {
+    "id": "brand006",
+    "name": "Tesla",
+    "logo": "assets/images/catalog/brands/tesla.jpg",
+    "category": "automotive",
+    "description": "Electric vehicles and energy"
+  },
+  {
+    "id": "brand007",
+    "name": "Reebok",
+    "logo": "assets/images/catalog/brands/reebook.jpg",
+    "category": "clothing",
+    "description": "Athletic footwear and apparel"
+  },
+  {
+    "id": "brand008",
+    "name": "Vans",
+    "logo": "assets/images/catalog/brands/vans.jpg",
+    "category": "clothing",
+    "description": "Skateboarding shoes and apparel"
+  },
+  {
+    "id": "brand009",
+    "name": "Congara",
+    "logo": "assets/images/catalog/brands/congara.jpg",
+    "category": "food",
+    "description": "Food and beverage products"
+  }
+]

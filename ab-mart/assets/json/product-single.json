@@ -1,0 +1,123 @@
+[
+  {
+    "pid": "567901",
+    "cid": "1a67893",
+    "stockavailable": "55",
+    "bestseller": true,
+    "freeshipping": true,
+    "images": [
+      {
+        "src": "assets/images/catalog/product/1a-800x800.jpg"
+      },
+      {
+        "src": "assets/images/catalog/product/1b-800x800.jpg"
+      },
+      {
+        "src": "assets/images/catalog/product/1c-800x800.jpg"
+      }
+    ],
+    "title": "Canon IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+    "brand": [
+      {
+        "name": "Puma",
+        "id": "01a891"
+      }
+    ],
+    "productcode": "pr16",
+    "stockavailability": "<i class='ml-2 fa fa-check text-success' aria-hidden='true'></i> In Stock",
+    "soldby": [
+      {
+        "name": "Darshita Electronics",
+        "id": "r45656980",
+        "rating": "4.2"
+      }
+    ],
+    "dealendsin": "Dec 31, 2027 23:59:59",
+    "currentprice": "110.00",
+    "oldprice": "122.00",
+    "offer": "70%",
+    "deliveryby": "Monday, Dec 21",
+    "rating": "3.5",
+    "reviewcount": "0",
+    "shortdesc": "FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS...",
+    "offersavailable": [
+      {
+        "title": "Special Price",
+        "value": "Get extra 36% off (price inclusive of discount)",
+        "terms": "08978dft"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "10% off on ICICI Bank Credit and Debit Cards, up to ₹750. On orders of ₹1500 and above",
+        "terms": "108978dftp"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
+        "terms": "108978dftpd"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "₹100 Off on BOB Mastercard debit card first time transaction, Terms and Condition apply",
+        "terms": "18978dftpd"
+      },
+      {
+        "title": "Partner Offer",
+        "value": "Buy Now & Get Extra 5% Discount Up To ₹ 50 Off on Purchase of Winter Fashion",
+        "terms": "918978dftpd"
+      },
+      {
+        "title": "Partner Offer",
+        "value": "₹2000 Flipkart Gift Card on Every 1000th Transaction with a new Visa Debit/Credit Card",
+        "terms": "a918978dftpd"
+      },
+      {
+        "title": "",
+        "value": "No Cost EMI on Flipkart Axis Bank Credit Card",
+        "terms": "a18978dftpd"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "5% off* with Axis Bank Buzz Credit Card",
+        "terms": "a18978dftpd"
+      }
+    ],
+    "replacable": "10",
+    "specification": "<h2>General</h2><figure class='table'><table><tbody><tr><td>Brand</td><td>Canon</td></tr><tr><td>Model Number</td><td>EOS 1500D</td></tr><tr><td>Model Name</td><td>EOS</td></tr><tr><td>SLR Variant</td><td>Body Dual kit with EF-S 18-55 IS II + 55-250 IS II lens (16 GB Memory Card &amp; Carry Case )</td></tr><tr><td>Brand Color</td><td>Black</td></tr><tr><td>Type</td><td>DSLR</td></tr><tr><td>Color</td><td>Black</td></tr><tr><td>Effective Pixels</td><td>24.1 MP</td></tr><tr><td>Tripod Socket</td><td>Yes</td></tr><tr><td>Wifi</td><td>Yes</td></tr><tr><td>GPS</td><td>Yes</td></tr></tbody></table></figure><h2>Sensor Features</h2><figure class='table'><table><tbody><tr><td>Sensor Type</td><td>CMOS</td></tr><tr><td>Image Sensor Size</td><td>22.3 x 14.9mm</td></tr><tr><td>ISO Rating</td><td>100 - 6400 (Max up to 12800)</td></tr></tbody></table></figure><h2>Lens Features</h2><figure class='table'><table><tbody><tr><td>Optical Zoom</td><td>35x</td></tr><tr><td>Lens Mount</td><td>Canon EF Mount</td></tr><tr><td>Dust Reduction</td><td>Yes</td></tr></tbody></table></figure><h2>Viewfinder Features</h2><figure class='table'><table><tbody><tr><td>View Finder Type</td><td>Optical Viewfinder</td></tr><tr><td>Viewfinder Coverage</td><td>Approximate: 95 %</td></tr></tbody></table></figure><h2>Focus Features</h2><figure class='table'><table><tbody><tr><td>Focus Points</td><td>9-Point Af</td></tr></tbody></table></figure><h2>Shutter Features</h2><figure class='table'><table><tbody><tr><td>Shutter Speed</td><td>1/4000 sec</td></tr><tr><td>Self-timer</td><td>Yes</td></tr><tr><td>Continuous Shots</td><td>3fps shooting</td></tr></tbody></table></figure><h2>Image Features</h2><figure class='table'><table><tbody><tr><td>Image Format</td><td>JPEG, RAW (14-bit Canon original)</td></tr></tbody></table></figure><h2>Video Features</h2><figure class='table'><table><tbody><tr><td>Video Resolution</td><td>1920 x 1080</td></tr><tr><td>Video Quality</td><td>1080p recording at 30p</td></tr></tbody></table></figure><h2>Display Features</h2><figure class='table'><table><tbody><tr><td>Display Type</td><td>Digital, single-lens reflex, AF / AE camera with built-in flash</td></tr><tr><td>Display Size</td><td>2</td></tr><tr><td>Touch Screen</td><td>No</td></tr></tbody></table></figure><h2>Storage Features</h2><figure class='table'><table><tbody><tr><td>Compatible Card</td><td>SD Card</td></tr></tbody></table></figure><h2>Power Features</h2><figure class='table'><table><tbody><tr><td>Battery Type</td><td>Lithium Battery</td></tr></tbody></table></figure><h2>Dimensions</h2><figure class='table'><table><tbody><tr><td>Width</td><td>129</td></tr><tr><td>Height</td><td>101.3</td></tr><tr><td>Depth</td><td>77.6 mm</td></tr><tr><td>Weight</td><td>475 g</td></tr></tbody></table></figure><h2>Warranty</h2><figure class='table'><table><tbody><tr><td>Warranty Summary</td><td>Product is covered under one-year standard warranty and one-year additional warranty from the date of Product purchased by the customer. Warranty validation / Warranty period confirmation would be done through either Online Warranty Serial No. Tracking system (Service Edge) or Warranty Card and Customer Invoice date.</td></tr><tr><td>Service Type</td><td>Carry In</td></tr><tr><td>Covered in Warranty</td><td>Warranty of the product is limited to only manufacturing defect on camera body &amp; lens.</td></tr><tr><td>Not Covered in Warranty</td><td>Warranty does not cover any external accessories (such as battery, cable, carrying bag), damage caused to the product due to improper installation by customer.</td></tr></tbody></table></figure>",
+    "addons": [
+      {
+        "src": "assets/images/catalog/product/1a-800x800.jpg",
+        "title": "IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+        "rating": "3.5",
+        "currentprice": "$110.00",
+        "oldprice": "$122.00",
+        "offer": "70%",
+        "pid": "0096875pid56",
+        "cid": "1196875cid45",
+        "shortdesc": "FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS..."
+      },
+      {
+        "src": "assets/images/catalog/product/1-280x280.jpg",
+        "title": "Canon IXUS 185  (20 MP, 8x Optical Zoom) Camera",
+        "rating": "3.5",
+        "currentprice": "$110.00",
+        "oldprice": "$122.00",
+        "offer": "70%",
+        "pid": "1096855pid56",
+        "cid": "2196875cid45",
+        "shortdesc": "FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS..."
+      },
+      {
+        "src": "assets/images/catalog/product/2-280x280.jpg",
+        "title": "Dual Time Digital Blue Dial Men's Watch",
+        "rating": "1.5",
+        "currentprice": "$66.80",
+        "oldprice": null,
+        "offer": null,
+        "pid": "2296875pid56",
+        "cid": "9996875cid45",
+        "shortdesc": "Engineered with pro-level features and performance, the 12.3-effective-megapixel D3"
+      }
+    ]
+  }
+]

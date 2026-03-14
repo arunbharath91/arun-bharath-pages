@@ -1,0 +1,16 @@
+{
+  "env": {
+    "name": "beta"
+  },
+  "cacheLocation": "sessionStorage",
+  "apiServer": {
+    "hosturl": "http://localhost:3000",
+    "mockurl": "https://arunbharath91.github.io/arunbharath/ab-mart",
+    "filePath": "https://40.76.93.115/BridgeEmployerDev",
+    "cipherText": "",
+    "timeout": 100000,
+    "version": "1.0"
+  },
+  "basePath": "/",
+  "useHashLocation": true
+}

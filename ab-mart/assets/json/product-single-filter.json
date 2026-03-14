@@ -1,0 +1,60 @@
+[
+  {
+    "type": "normalView",
+    "element": "radio",
+    "id": "color",
+    "opened": "true",
+    "class": "inline",
+    "title": "Color",
+    "values": [
+      {
+        "id": "0123a456",
+        "count": 5,
+        "highlighted": false,
+        "resource": {
+          "params": "facets.color=Blue"
+        },
+        "title": "Blue",
+        "src": "https://m.media-amazon.com/images/I/41e1JcORdNS._SS36_.jpg"
+      },
+      {
+        "id": "0123a457",
+        "count": 19,
+        "highlighted": false,
+        "resource": {
+          "params": "facets.color=Black"
+        },
+        "title": "Black",
+        "src": "https://m.media-amazon.com/images/I/41I4ZIBgc3S._SS36_.jpg"
+      }
+    ]
+  },
+  {
+    "type": "normalView",
+    "element": "radio",
+    "id": "specification",
+    "opened": "true",
+    "class": "inline",
+    "title": "Specification",
+    "values": [
+      {
+        "id": "0123b456",
+        "count": 5,
+        "highlighted": false,
+        "resource": {
+          "params": "facets.spec=4GB RAM + 128GB Storage"
+        },
+        "title": "4GB RAM + 128GB Storage"
+      },
+      {
+        "id": "0123b457",
+        "count": 19,
+        "highlighted": false,
+        "resource": {
+          "params": "facets.spec=4GB RAM + 64GB Storage"
+        },
+        "title": "4GB RAM + 64GB Storage"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "card",
+    "name": "Credit/Debit Card",
+    "icon": "credit_card",
+    "description": "Visa, Mastercard, Rupay",
+    "isActive": true
+  },
+  {
+    "id": "upi",
+    "name": "UPI",
+    "icon": "account_balance",
+    "description": "Google Pay, PhonePe, Paytm",
+    "isActive": true
+  },
+  {
+    "id": "netbanking",
+    "name": "Net Banking",
+    "icon": "account_balance",
+    "description": "All major banks",
+    "isActive": true
+  },
+  {
+    "id": "wallet",
+    "name": "Wallet",
+    "icon": "account_balance_wallet",
+    "description": "Paytm, PhonePe, Amazon Pay",
+    "isActive": true
+  },
+  {
+    "id": "cod",
+    "name": "Cash on Delivery",
+    "icon": "local_atm",
+    "description": "Pay when you receive",
+    "isActive": true,
+    "extraCharge": 50
+  }
+]

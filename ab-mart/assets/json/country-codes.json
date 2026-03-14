@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "currency_code": "USD"
+  },
+  {
+    "country": "United Kingdom",
+    "currency_code": "GBP"
+  },
+  {
+    "country": "European Union",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "India",
+    "currency_code": "INR"
+  },
+  {
+    "country": "Canada",
+    "currency_code": "CAD"
+  },
+  {
+    "country": "Australia",
+    "currency_code": "AUD"
+  },
+  {
+    "country": "Japan",
+    "currency_code": "JPY"
+  },
+  {
+    "country": "China",
+    "currency_code": "CNY"
+  },
+  {
+    "country": "Singapore",
+    "currency_code": "SGD"
+  },
+  {
+    "country": "United Arab Emirates",
+    "currency_code": "AED"
+  }
+]

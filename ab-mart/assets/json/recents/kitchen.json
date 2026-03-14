@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "KIT001",
+    "cid": "kitchen",
+    "src": "assets/images/catalog/product/14-800x800.jpg",
+    "title": "Non-Stick Cookware Set - 5 Pieces",
+    "dealendsin": "Mar 12, 2026 16:00:00",
+    "currentprice": "1499.00",
+    "oldprice": "3999.00",
+    "offer": "62%",
+    "deliveryby": "Friday, Mar 6",
+    "rating": "4.4",
+    "reviewcount": "278",
+    "shortdesc": "Premium non-stick coating, Induction compatible, Easy to clean...",
+    "replacable": "10"
+  },
+  {
+    "pid": "KIT002",
+    "cid": "kitchen",
+    "src": "assets/images/catalog/product/15-800x800.jpg",
+    "title": "Electric Kettle 1.8L - Stainless Steel",
+    "dealendsin": "Mar 18, 2026 10:00:00",
+    "currentprice": "799.00",
+    "oldprice": "1599.00",
+    "offer": "50%",
+    "deliveryby": "Saturday, Mar 7",
+    "rating": "4.1",
+    "reviewcount": "145",
+    "shortdesc": "Auto shut-off, Boil dry protection, 1500W power, Fast boiling...",
+    "replacable": "10"
+  },
+  {
+    "pid": "KIT003",
+    "cid": "kitchen",
+    "src": "assets/images/catalog/product/16-800x800.jpg",
+    "title": "Mixer Grinder 750W - 3 Jars",
+    "dealendsin": "Mar 25, 2026 14:00:00",
+    "currentprice": "2299.00",
+    "oldprice": "4999.00",
+    "offer": "54%",
+    "deliveryby": "Monday, Mar 9",
+    "rating": "4.5",
+    "reviewcount": "421",
+    "shortdesc": "Powerful motor, Stainless steel blades, 3 speed control, Overload protection...",
+    "replacable": "10"
+  },
+  {
+    "pid": "KIT004",
+    "cid": "kitchen",
+    "src": "assets/images/catalog/product/17-800x800.jpg",
+    "title": "Dinner Set - 24 Pieces Ceramic",
+    "dealendsin": "Mar 5, 2026 19:00:00",
+    "currentprice": "1899.00",
+    "oldprice": "3999.00",
+    "offer": "52%",
+    "deliveryby": "Tuesday, Mar 10",
+    "rating": "4.3",
+    "reviewcount": "198",
+    "shortdesc": "Microwave safe, Dishwasher safe, Elegant design, Chip resistant...",
+    "replacable": "7"
+  }
+]

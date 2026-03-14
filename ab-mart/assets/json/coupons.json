@@ -1,0 +1,36 @@
+[
+  {
+    "code": "WELCOME10",
+    "description": "Get 10% off on your first order",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderValue": 500,
+    "maxDiscount": 200,
+    "validFrom": "2026-01-01",
+    "validTill": "2026-12-31",
+    "isActive": true
+  },
+  {
+    "code": "SAVE500",
+    "description": "Flat ₹500 off on orders above ₹2000",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minOrderValue": 2000,
+    "maxDiscount": 500,
+    "validFrom": "2026-02-01",
+    "validTill": "2026-03-31",
+    "isActive": true
+  },
+  {
+    "code": "FLASH20",
+    "description": "Flash Sale - 20% off on electronics",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minOrderValue": 1000,
+    "maxDiscount": 1000,
+    "category": "electronics",
+    "validFrom": "2026-02-28",
+    "validTill": "2026-03-02",
+    "isActive": true
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "env": {
+    "name": "dev"
+  },
+  "cacheLocation": "sessionStorage",
+  "apiServer": {
+    "hosturl": "http://localhost:4200",
+    "mockurl": "http://localhost:4200",
+    "filePath": "https://40.76.93.115/BridgeEmpServicedev",
+    "cipherText": "",
+    "timeout": 100000,
+    "version": "1.0"
+  },
+  "basePath": "/",
+  "useHashLocation": true
+}

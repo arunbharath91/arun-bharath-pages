@@ -1,0 +1,64 @@
+$base: #222;
+
+$colors: (
+  primary: #3367d6,
+  primary-hover: #0069d9,
+  primary-border: #0062cc,
+  primary-dark: #1a3673,
+  primary-dark-hover: #172f63,
+  secondary: #59595b,
+  secondary-hover: #4e4e4e,
+  secondary-border: #6c757d,
+  danger: #dc3545,
+  danger-hover: #ce3343,
+  warning: #fcff00,
+  warning-hover: #f8e163,
+  light: #f5f5f5,
+  light-hover: #e6e4e4,
+  dark-grey: #818282,
+  light-grey: #f8f8f8,
+  light-grey-1: #eaeaea,
+  light-grey-2: #e9edf1,
+  light-grey-3: #c1c1c1,
+  medium-grey: #999c9e,
+  medium-grey-1: #797979,
+  medium-grey-2: #595959,
+  medium-grey-3: #343434,
+  dark-green: #005825,
+  table-odd: #f8f5f5,
+  white: #fff,
+  dark: #000,
+);
+
+@function get-color($color-name) {
+  @return map-get($colors, $color-name);
+}
+
+// Backward compatibility alias
+@function color($color-name) {
+  @return get-color($color-name);
+}
+
+// $color-primary      : #3367d6;
+// $color-primary-hover: #0069d9;
+// $color-primary-dark : #1a3673;
+// $color-secondary    : #59595b;
+// $color-danger       : #dc3545;
+// $color-light        : #f5f5f5;
+
+// $color-accent      : #fcff00;
+// $color-accent-hover: #f8e163;
+
+// $color-dark-grey    : #818282;
+// $color-light-grey   : #f8f8f8;
+// $color-light-grey-1 : #eaeaea;
+// $color-light-grey-2 : #e9edf1;
+// $color-light-grey-3 : #c1c1c1;
+// $color-medium-grey  : #999c9e;
+// $color-medium-grey-1: #797979;
+// $color-medium-grey-2: #595959;
+// $color-medium-grey-3: #343434;
+
+// $color-dark-green: #005825;
+// $color-table-odd : #f8f5f5;
+// $color-white     : #fff;

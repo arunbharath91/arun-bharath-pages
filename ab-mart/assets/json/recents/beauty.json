@@ -1,0 +1,62 @@
+[
+  {
+    "pid": "BEA001",
+    "cid": "beauty",
+    "src": "assets/images/catalog/product/1-800x800.jpg",
+    "title": "Face Serum - Vitamin C & Hyaluronic Acid",
+    "dealendsin": "Mar 31, 2026 17:00:00",
+    "currentprice": "599.00",
+    "oldprice": "1199.00",
+    "offer": "50%",
+    "deliveryby": "Wednesday, Mar 25",
+    "rating": "4.7",
+    "reviewcount": "789",
+    "shortdesc": "Anti-aging, Brightening, Hydrating, Dermatologist tested, Paraben free...",
+    "replacable": "7"
+  },
+  {
+    "pid": "BEA002",
+    "cid": "beauty",
+    "src": "assets/images/catalog/product/2-280x280.jpg",
+    "title": "Makeup Brush Set - 12 Pieces Professional",
+    "dealendsin": "Apr 5, 2026 12:00:00",
+    "currentprice": "799.00",
+    "oldprice": "1599.00",
+    "offer": "50%",
+    "deliveryby": "Thursday, Mar 26",
+    "rating": "4.5",
+    "reviewcount": "456",
+    "shortdesc": "Soft bristles, Complete set, Professional quality, With storage case...",
+    "replacable": "10"
+  },
+  {
+    "pid": "BEA003",
+    "cid": "beauty",
+    "src": "assets/images/catalog/product/3-800x800.jpg",
+    "title": "Hair Straightener - Ceramic Plates",
+    "dealendsin": "Mar 22, 2026 15:00:00",
+    "currentprice": "999.00",
+    "oldprice": "2499.00",
+    "offer": "60%",
+    "deliveryby": "Friday, Mar 27",
+    "rating": "4.4",
+    "reviewcount": "567",
+    "shortdesc": "Fast heating, Temperature control, Ceramic coating, Salon quality...",
+    "replacable": "10"
+  },
+  {
+    "pid": "BEA004",
+    "cid": "beauty",
+    "src": "assets/images/catalog/product/4-280x280.jpg",
+    "title": "Skincare Gift Set - 5 Products",
+    "dealendsin": "Apr 10, 2026 10:00:00",
+    "currentprice": "1499.00",
+    "oldprice": "2999.00",
+    "offer": "50%",
+    "deliveryby": "Saturday, Mar 28",
+    "rating": "4.8",
+    "reviewcount": "923",
+    "shortdesc": "Complete routine, Natural ingredients, All skin types, Premium packaging...",
+    "replacable": "7"
+  }
+]

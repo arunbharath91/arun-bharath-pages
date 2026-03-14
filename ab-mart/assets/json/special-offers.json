@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Flash Sale - Electronics",
+    "description": "Up to 50% off on selected electronics",
+    "discount": 50,
+    "image": "assets/images/catalog/offer/banner-1-660x280.jpg",
+    "category": "Electronics",
+    "validUntil": "2026-03-20",
+    "featured": true,
+    "products": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 2,
+    "title": "Fashion Week Special",
+    "description": "Buy 2 Get 1 Free on all fashion items",
+    "discount": 33,
+    "image": "assets/images/catalog/offer/banner-2-660x280.jpg",
+    "category": "Fashion",
+    "validUntil": "2026-03-25",
+    "featured": true,
+    "products": [11, 12, 13, 14, 15]
+  },
+  {
+    "id": 3,
+    "title": "Home Makeover Sale",
+    "description": "Transform your home with 40% off",
+    "discount": 40,
+    "image": "assets/images/catalog/offer/banner-3-660x280.jpg",
+    "category": "Home",
+    "validUntil": "2026-03-30",
+    "featured": false,
+    "products": [31, 32, 33, 34, 35]
+  },
+  {
+    "id": 4,
+    "title": "Sports Gear Clearance",
+    "description": "End of season sale - Up to 60% off",
+    "discount": 60,
+    "image": "assets/images/catalog/offer/banner-4-660x280.jpg",
+    "category": "Sports",
+    "validUntil": "2026-03-15",
+    "featured": true,
+    "products": [41, 42, 43, 44, 45]
+  },
+  {
+    "id": 5,
+    "title": "Book Lovers Special",
+    "description": "Buy 3 books, get 25% off",
+    "discount": 25,
+    "image": "assets/images/catalog/offer/banner-1-660x280.jpg",
+    "category": "Books",
+    "validUntil": "2026-04-05",
+    "featured": false,
+    "products": [51, 52, 53, 54, 55]
+  },
+  {
+    "id": 6,
+    "title": "Kids Toys Bonanza",
+    "description": "Special prices on all toys",
+    "discount": 35,
+    "image": "assets/images/catalog/offer/banner-2-660x280.jpg",
+    "category": "Toys",
+    "validUntil": "2026-03-28",
+    "featured": false,
+    "products": [61, 62, 63, 64, 65]
+  },
+  {
+    "id": 7,
+    "title": "Weekend Mega Sale",
+    "description": "Extra 20% off on everything",
+    "discount": 20,
+    "image": "assets/images/catalog/offer/banner-3-660x280.jpg",
+    "category": "All",
+    "validUntil": "2026-03-12",
+    "featured": true,
+    "products": []
+  },
+  {
+    "id": 8,
+    "title": "New Arrivals Discount",
+    "description": "15% off on all new products",
+    "discount": 15,
+    "image": "assets/images/catalog/offer/banner-4-660x280.jpg",
+    "category": "All",
+    "validUntil": "2026-04-01",
+    "featured": false,
+    "products": []
+  }
+]

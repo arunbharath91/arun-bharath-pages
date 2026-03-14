@@ -1,0 +1,56 @@
+// /* ------- customize primary button color -------- */
+
+// .text-success {
+//   color: color(success) !important;
+// }
+
+// .bg-success {
+//   background-color: color(success) !important;
+// }
+
+// .btn-success {
+//   @include button-variant(color(success), darken(color(success), 7.5%), darken(color(dark), 10%), lighten(color(success), 5%), lighten(color(success), 10%), darken(color(success), 30%));
+// }
+
+// .btn-outline-success {
+//   @include button-outline-variant(color(success), #222222, lighten(color(success), 5%), color(success));
+// }
+
+// .btn-primary {
+//   @include button-variant(color(primary), darken(color(primary), 7.5%), darken(color(white), 10%), lighten(color(primary), 5%), lighten(color(primary), 10%), darken(color(primary), 30%));
+// }
+
+// .btn-outline-primary {
+//   @include button-outline-variant(color(primary), #222222, lighten(color(primary), 5%), color(primary));
+// }
+
+// .btn-secondary {
+//   @include button-variant(color(secondary), darken(color(secondary), 7.5%), darken(color(white), 10%), lighten(color(secondary), 5%), lighten(color(secondary), 10%), darken(color(secondary), 30%));
+// }
+
+// .btn-outline-secondary {
+//   @include button-outline-variant(color(secondary), #222222, lighten(color(secondary), 5%), color(secondary));
+// }
+
+.btn-chip {
+  background   : #ccc;
+  padding      : 2px 15px 2px 15px;
+  border-radius: 50px;
+}
+
+.btn-chip .close-chip {
+  background-color: #fff;
+  padding         : 3px 6px;
+  // margin-left: 8px;
+  border-radius   : 50px;
+  right           : -13px;
+  position        : relative;
+}
+
+[role="tabpanel"]>.card-body {
+  padding: 0rem;
+}
+
+.navbar-brand {
+  font-size: inherit;
+}

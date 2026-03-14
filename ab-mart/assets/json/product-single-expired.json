@@ -1,0 +1,103 @@
+[
+  {
+    "pid": "567902",
+    "cid": "1a67894",
+    "stockavailable": "35",
+    "bestseller": true,
+    "freeshipping": true,
+    "images": [
+      {
+        "src": "assets/images/catalog/product/22-800x800.jpg"
+      },
+      {
+        "src": "assets/images/catalog/product/1b-800x800.jpg"
+      },
+      {
+        "src": "assets/images/catalog/product/1c-800x800.jpg"
+      }
+    ],
+    "title": "Sony Alpha A6000 (24.3 MP, Mirrorless Camera)",
+    "brand": [
+      {
+        "name": "Sony",
+        "id": "01a892"
+      }
+    ],
+    "productcode": "pr17",
+    "stockavailability": "<i class='ml-2 fa fa-check text-success' aria-hidden='true'></i> In Stock",
+    "soldby": [
+      {
+        "name": "TechWorld Electronics",
+        "id": "r45656981",
+        "rating": "4.5"
+      }
+    ],
+    "dealendsin": "Jan 15, 2025 23:59:59",
+    "currentprice": "145.00",
+    "oldprice": "199.00",
+    "offer": "27%",
+    "deliveryby": "Friday, Mar 21",
+    "rating": "4.2",
+    "reviewcount": "156",
+    "shortdesc": "Professional mirrorless camera with fast autofocus and excellent image quality...",
+    "offersavailable": [
+      {
+        "title": "Special Price",
+        "value": "Get extra 27% off (price inclusive of discount)",
+        "terms": "08978dft2"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "10% off on HDFC Bank Credit and Debit Cards, up to ₹1000. On orders of ₹2000 and above",
+        "terms": "108978dftp2"
+      },
+      {
+        "title": "Bank Offer",
+        "value": "5% Unlimited Cashback on Amazon Pay ICICI Credit Card",
+        "terms": "108978dftpd2"
+      },
+      {
+        "title": "Partner Offer",
+        "value": "Buy Now & Get Extra 10% Discount Up To ₹ 100 Off on Purchase of Electronics",
+        "terms": "918978dftpd2"
+      }
+    ],
+    "replacable": "15",
+    "specification": "<h2>General</h2><figure class='table'><table><tbody><tr><td>Brand</td><td>Sony</td></tr><tr><td>Model Number</td><td>A6000</td></tr><tr><td>Model Name</td><td>Alpha</td></tr><tr><td>Type</td><td>Mirrorless</td></tr><tr><td>Color</td><td>Black</td></tr><tr><td>Effective Pixels</td><td>24.3 MP</td></tr><tr><td>Wifi</td><td>Yes</td></tr><tr><td>NFC</td><td>Yes</td></tr></tbody></table></figure><h2>Sensor Features</h2><figure class='table'><table><tbody><tr><td>Sensor Type</td><td>APS-C CMOS</td></tr><tr><td>Image Sensor Size</td><td>23.5 x 15.6mm</td></tr><tr><td>ISO Rating</td><td>100 - 25600</td></tr></tbody></table></figure><h2>Lens Features</h2><figure class='table'><table><tbody><tr><td>Lens Mount</td><td>Sony E-Mount</td></tr><tr><td>Dust Reduction</td><td>Yes</td></tr></tbody></table></figure><h2>Focus Features</h2><figure class='table'><table><tbody><tr><td>Focus Points</td><td>179-Point AF</td></tr><tr><td>Focus Type</td><td>Fast Hybrid AF</td></tr></tbody></table></figure><h2>Shutter Features</h2><figure class='table'><table><tbody><tr><td>Shutter Speed</td><td>1/4000 sec</td></tr><tr><td>Self-timer</td><td>Yes</td></tr><tr><td>Continuous Shots</td><td>11fps shooting</td></tr></tbody></table></figure><h2>Video Features</h2><figure class='table'><table><tbody><tr><td>Video Resolution</td><td>1920 x 1080</td></tr><tr><td>Video Quality</td><td>1080p recording at 60p</td></tr></tbody></table></figure><h2>Display Features</h2><figure class='table'><table><tbody><tr><td>Display Type</td><td>LCD</td></tr><tr><td>Display Size</td><td>3 inch</td></tr><tr><td>Touch Screen</td><td>No</td></tr></tbody></table></figure><h2>Dimensions</h2><figure class='table'><table><tbody><tr><td>Width</td><td>120</td></tr><tr><td>Height</td><td>66.9</td></tr><tr><td>Depth</td><td>45.1 mm</td></tr><tr><td>Weight</td><td>344 g</td></tr></tbody></table></figure>",
+    "addons": [
+      {
+        "src": "assets/images/catalog/product/22-800x800.jpg",
+        "title": "Sony Alpha A6000 Body",
+        "rating": "4.2",
+        "currentprice": "$145.00",
+        "oldprice": "$199.00",
+        "offer": "27%",
+        "pid": "0096875pid57",
+        "cid": "1196875cid46",
+        "shortdesc": "Professional mirrorless camera with fast autofocus..."
+      },
+      {
+        "src": "assets/images/catalog/product/1-280x280.jpg",
+        "title": "Sony 16-50mm Lens",
+        "rating": "4.0",
+        "currentprice": "$85.00",
+        "oldprice": "$120.00",
+        "offer": "29%",
+        "pid": "1096855pid57",
+        "cid": "2196875cid46",
+        "shortdesc": "Compact zoom lens perfect for everyday photography..."
+      },
+      {
+        "src": "assets/images/catalog/product/2-280x280.jpg",
+        "title": "Camera Bag - Professional",
+        "rating": "4.3",
+        "currentprice": "$45.00",
+        "oldprice": null,
+        "offer": null,
+        "pid": "2296875pid57",
+        "cid": "9996875cid46",
+        "shortdesc": "Durable camera bag with multiple compartments for gear protection"
+      }
+    ]
+  }
+]

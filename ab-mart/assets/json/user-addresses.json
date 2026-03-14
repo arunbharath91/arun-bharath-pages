@@ -1,0 +1,26 @@
+[
+  {
+    "id": "addr001",
+    "name": "John Doe",
+    "phone": "9876543210",
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Near City Mall",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "type": "home",
+    "isDefault": true
+  },
+  {
+    "id": "addr002",
+    "name": "John Doe",
+    "phone": "9876543210",
+    "addressLine1": "456 Business Park",
+    "addressLine2": "Tower B, 5th Floor",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400051",
+    "type": "work",
+    "isDefault": false
+  }
+]

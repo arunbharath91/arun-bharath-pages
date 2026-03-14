@@ -1,0 +1,27 @@
+[
+  {
+    "id": "standard",
+    "name": "Standard Delivery",
+    "description": "Delivery in 5-7 business days",
+    "cost": 0,
+    "minOrderForFree": 499,
+    "estimatedDays": "5-7"
+  },
+  {
+    "id": "express",
+    "name": "Express Delivery",
+    "description": "Delivery in 2-3 business days",
+    "cost": 99,
+    "minOrderForFree": 1999,
+    "estimatedDays": "2-3"
+  },
+  {
+    "id": "sameday",
+    "name": "Same Day Delivery",
+    "description": "Order before 12 PM for same day delivery",
+    "cost": 199,
+    "minOrderForFree": null,
+    "estimatedDays": "0",
+    "availableInCities": ["Mumbai", "Delhi", "Bangalore", "Hyderabad"]
+  }
+]
